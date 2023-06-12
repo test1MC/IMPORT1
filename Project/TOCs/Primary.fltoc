@@ -3,5 +3,5 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/RENAMED-Topic.htm" />
+    Link="/Content/RENAMED-Resources/RENAMED-Topic.htm" />
 </CatapultToc>
